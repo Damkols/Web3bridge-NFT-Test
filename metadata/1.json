@@ -1,0 +1,16 @@
+{
+ "name": "Meme nft #1",
+ "description": "A collection of meme nft on the Ethereum Blockchain",
+ "image": "ipfs://QmW6Ae7QnWbeGdkvatubvXfciy6pDfL7LspFmNaFCpjH27",
+ "edition": 1,
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "Brown"
+  },
+  {
+   "trait_type": "meme",
+   "value": "Fun"
+  }
+ ]
+}
